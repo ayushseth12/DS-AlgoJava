@@ -51,7 +51,7 @@ public class ArrayAddition {
 			i--;
 		}
 		if(carry==1)
-		
+
 	return result;
 	}else{
 			int carry=0;
@@ -90,6 +90,7 @@ public class ArrayAddition {
 			}
 			return result;
 	}
+		return null;
 	}
 
 	public static void main(String[] args) {
